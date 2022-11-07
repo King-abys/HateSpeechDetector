@@ -1,0 +1,108 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: malakabuhammad
+ * Date: 1/20/18
+ * Time: 7:59 PM
+ * Modified by Ahmad Bala
+ * @King_abys
+ * Date: 10/20/21
+ * Time: 2:30 PM
+ */
+
+/**
+ * @return array
+ */
+function getHateWordsList()
+{
+    return [
+        'Allophilia',
+        'Animal cruelty',
+        'Animal testing',
+        'Anti-cultural sentiment',
+        'Assimilation',
+        'Bias',
+        'Blood libel',
+        'Blood sport',
+        'Carnism',
+        'Christian privilege',
+        'Class conflict',
+        'Compulsory sterilization',
+        'Counter-jihad',
+        'Cultural genocide',
+        'Democide',
+        'Disability hate crime',
+        'Diversity',
+        'Economic',
+        'Eliminationism',
+        'Employment',
+        'Enemy of the people',
+        'Ethnic cleansing',
+        'Ethnic hatred',
+        'Ethnic joke',
+        'Ethnic penalty',
+        'Ethnocide',
+        'Eugenics',
+        'Forced conversion',
+        'Freak show',
+        'Gay bashing',
+        'Gendercide',
+        'Genital mutilation',
+        'Genocide',
+        'Group libel',
+        'Hate crime',
+        'Hate group',
+        'Hate speech',
+        'Homeless dumping',
+        'Housing',
+        'Indian rolling',
+        'Intersectionality',
+        'Lavender scare',
+        'LGBT hate crime',
+        'Lynching',
+        'Male privilege',
+        'Masculism',
+        'Meat eating',
+        'Mortgage',
+        'Multiculturalism',
+        'Murder music',
+        'Neurodiversity',
+        'Occupational segregation',
+        'Oppression',
+        'Persecution',
+        'Persecution',
+        'Pogrom',
+        'Police brutality',
+        'Political correctness',
+        'Power distance',
+        'Prejudice',
+        'Purge',
+        'Race war',
+        'Racial bias in criminal news',
+        'Racism by country',
+        'Red',
+        'Regressive left',
+        'Religious intolerance',
+        'Religious persecution',
+        'Scapegoating',
+        'Scare',
+        'Segregation academy',
+        'Sex-selective abortion',
+        'Slavery',
+        'Slut-shaming',
+        'Snobbery',
+        'Social exclusion',
+        'Social stigma',
+        'Stereotype threat',
+        'Trans bashing',
+        'Victimization',
+        'Violence against women',
+        'White flight',
+        'White power music',
+        'White privilege',
+        'Wife selling',
+        'Witch-hunt',
+        'Nazi crew',
+        'Nazi',
+    ];
+}
